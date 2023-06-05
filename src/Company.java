@@ -25,7 +25,7 @@ public class Company {
     }
 
     public void printCompanyInfo(){
-        System.out.println("Company name:" + getName());
-        System.out.println("Emproyees" + getEmployees());
+        System.out.println("Company name: " + getName());
+        System.out.println("Emproyees:" + getEmployees());
     }
 }
